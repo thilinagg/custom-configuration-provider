@@ -1,0 +1,13 @@
+
+}
+MCustomConfigurationProvider/CustomConfigurations/CustomConfigurationSource.cs,c\2\c21de12e62eacb9738433929c18ed7a1f41330c8
+Å
+QCustomConfigurationProvider/CustomConfigurations/CustomConfigurationExtensions.cs,2\8\28f1265b5037b10bdb9b4d6889a9f2117bc75086
+y
+ICustomConfigurationProvider/CustomConfigurations/CustomAppSettingModel.cs,4\a\4a076a422843c0f02d38a76cbd5f83fba2f1d95a
+
+OCustomConfigurationProvider/CustomConfigurations/CustomConfigurationProvider.cs,7\b\7bdb729442dcaf1910e3aee60219714dc013edf3
+x
+HCustomConfigurationProvider/Controllers/ConfigurationReaderController.cs,1\1\111974483b2c0bc95a78d59d313b8bc9451504a9
+V
+&CustomConfigurationProvider/Program.cs,c\1\c19d046b282e4bd2228e93973cf3d584eefedca9
